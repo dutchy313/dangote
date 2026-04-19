@@ -1,6 +1,6 @@
-# Petroleum Import Data Visualization
+# Dangote Refinery Impact Map: Countries Potentially Exposed to Revenue Loss from Reduced Petroleum Exports to Nigeria
 
-A data visualization project that creates an interactive map showing refined petroleum imports to Nigeria in 2022.
+This project presents an interactive geospatial analysis of countries whose petroleum export revenues to Nigeria may be affected by the start of production at the Dangote Petroleum Refinery in December 2023. Using Nigeria’s 2022 refined petroleum import data as a baseline, the analysis visualizes the countries that previously supplied petroleum products to Nigeria and are therefore potentially exposed to reduced export earnings as domestic refining capacity expands. The project uses Python, pandas, Folium, and choropleth mapping to translate trade data into a simple, interactive map for policy, business, and data storytelling purposes.
 
 ## Project Overview
 
