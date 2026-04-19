@@ -46,4 +46,4 @@ The script generates `petroleum.html`, an interactive map showing:
 
 ## Author
 
-Designed by Oludotun Babayemi
+Designed by Oludotun Babayemi in August 2024
